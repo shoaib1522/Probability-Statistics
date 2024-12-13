@@ -1,0 +1,205 @@
+Slide 1: Title Slide
+
+Hi everyone! Today, we're talking about something important – "Bullying and Its Impacts."
+
+Bullying isn't just a school problem; it affects all of us. Today, we're going to explore what bullying is and how it really affects people
+
+Before we start, let me introduce our team:
+I'm Muhammad Shoaib.
+Zalaid Butt is on the team too.
+And we have Um e Abeeha.
+____________________________________________
+
+Slide 2: 
+Certainly! Let's create lines for each section of your survey questionnaire presentation:
+
+- Now, let's dig into the survey. We started by asking about personal information, such as age and gender, to understand how bullying impacts people across different demographics.
+
+- We asked about the type of bullying individuals have faced and how it affects their mental health.
+
+-We investigated changes in behavior, the influence on academic performance, and any physical effects that may result from bullying experiences.
+
+- Shifting gears to prevention,We also explored the importance of seeking support and assessed the perceived effectiveness of institutional preventive measures.
+
+- Awareness is crucial. We probed into reasons why some individuals choose not to report incidents, questioned those who may have witnessed bullying, and gauged people's comfort level in reporting.
+_____________________________________________
+ SLIDE 4:
+ Assessment of Question 1 - Bullying Perception by Gender**
+*Statistical Analysis:*
+- "We wanted to know if people see bullying differently based on whether they're a boy or a girl. To figure this out, we used a special math method called the Hypothesis Test with a Two-sample Proportion."
+*Hypotheses:*
+- "We made two guesses. The first one said that boys and girls experience bullying the same way. The second guess was that maybe girls experience more bullying than boys. We call this a 'one-tail test.'"
+*Test Results:*
+- "After doing our math, we found a number called Z-value. It was 0.48284. We compared this number with another number called Z-tab (-1.959), and guess what? Our number was not the same! That's important."
+*Conclusion:*
+- "So, we decided that our first guess (the one saying boys and girls experience bullying the same way) wasn't right. Our study suggests that girls might be facing more bullying than boys. This tells us something important about how people see and experience bullying."
+_______________________________________________________________________
+sLIDE 6:
+ Assessment of Question 2 - Comfort in Discussing Bullying**
+*Statistical Analysis:*
+- "We wanted to understand how comfortable people feel talking about bullying. We used a math method called Hypothesis Test with a mean for one sample to figure this out."
+
+*Details:*
+- "We asked 152 people about their comfort level in discussing bullying. The average or mean comfort level we found was 3. To decide if this is significant, we used a confidence level of 95%."
+
+*Test Results:*
+- "We compared our average (3) with a critical number called 't.' The critical 't' was 1.65. But our test statistic 't' was -4.62331. This big difference helped us reach a conclusion."
+
+*Conclusion:*
+- "Our conclusion is that we failed to accept the idea that people are generally comfortable discussing bullying. The comfort level seems to be less than 4, as per our analysis."
+
+*Result and Final Thoughts:*
+- "So, in simple terms, we found that, on average, people rate their comfort in discussing bullying at 4. However, our study suggests that the actual comfort level might be less than 4. This tells us something important about how people feel when talking about bullying."
+_____________________________________________________________________________
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+MEMBER 2:
+slide 7
+
+ Assessment of Question 3 - Exploring Different Bullying Encounters**
+*Statistical Analysis:*
+- "We wanted to understand if people have different experiences with verbal and physical bullying. So, we used a math method called Hypothesis Test for Proportion."
+
+*Details:*
+- "We looked at the percentage of people who experience verbal bullying (P1) and compared it with the percentage of people experiencing physical bullying (P2). Our question was: Is there a significant difference between the two?"
+
+*Hypotheses:*
+- "We guessed that the difference between verbal and physical bullying is 0.50. Our alternative guess (H1) was that the difference is less than 0.50. This makes it a 'one-tail test.'"
+
+*Test Results:*
+- "After asking 110 people about verbal bullying and 90 people about physical bullying, we found a critical number called 'Z' (1.645) and our Z-Statistic (4.06). This helped us figure out if our guess was correct."
+
+*Conclusion:*
+- "Our conclusion is that we failed to accept the idea that the difference between verbal and physical bullying encounters is 0.50. Our analysis suggests that the difference is less than 0.50, as shown by the Confidence Interval of 0.15067 to 0.41499."
+
+*Final Thoughts:*
+- "In simpler terms, our study indicates that the experiences of people facing verbal and physical bullying are significantly different. The difference is less than what we initially thought (0.50). This gives us valuable insights into the various encounters people have with bullying."
+
+______________________________________________________
+Slide 8:
+**Slide 13: Assessment of Question 4 - Witnessing Bullying and Providing Support**
+*Statistical Analysis:*
+- "Our next question was about people witnessing bullying and whether they stepped in to help. We used a math method called Hypothesis Test for Proportion to understand this."
+*Details:*
+- "We set our confidence level at 95% and asked 82 people who witnessed bullying and 70 people who didn't, about their actions. Our goal was to figure out if the percentage of people helping is greater than those who didn't."
+
+*Test Results:*
+- "After doing our math, we found a critical number called 'z' (1.96) and our Test Statistic 'z' (3.16983). This helped us decide if our idea was right."
+
+*Conclusion:*
+- "Our conclusion is that we failed to reject the idea that the percentage of people who helped the bullied person is equal to those who didn't. Our analysis suggests that the percentage of people helping is greater than those who didn't help."
+
+*Final Thoughts:*
+- "In simpler terms, our study shows that when people witness bullying, a significant number of them step in to help. This is important because it indicates a positive trend where people are more likely to provide support in bullying situations."
+____________________________________________________
+
+Slide 9:
+
+Assessment of Question 5 - Effects on Mental Health**
+*Statistical Analysis:*
+- "Our next question focused on understanding the impact of bullying on mental health. To figure this out, we used a math method called Hypothesis Test for Mean for one sample."
+*Details:*
+- "We set an average or mean level at 3, which represents the expected impact on mental health. Our question was whether the actual impact is greater than this. We used a confidence level of 90% and surveyed 152 people."
+*Hypotheses:*
+- "Our null hypothesis (H0) was that the impact on mental health is equal to 3. The alternative hypothesis (H1) suggested that the impact is greater than 3, making it a 'one-tail test.'"
+*Test Results:*
+- "After doing the math, we found a critical number called 't' (1.28) and our Test Statistic 't' (2.46577). This helped us decide if the impact is significant."
+*Conclusion:*
+- "Our conclusion is that we failed to accept the idea that the impact of bullying on mental health is equal to 3. Our analysis suggests that the actual effect is greater than 3."
+*Final Thoughts:*
+- "In simpler terms, our study indicates that bullying has a notable impact on mental health. The actual effect is greater than what we initially expected, emphasizing the serious consequences of bullying on individuals' mental well-being."
+____________________________________________________
+
+ 
+
+
+__________________
+Member 3:
+Slide 12:
+Certainly, let's break down the information for Slide 15:
+
+Assessment of Question 7 - Exploring Different Bullying Encounters (Social vs. Cyberbullying)**
+*Statistical Analysis:*
+- "Our focus shifted to understanding different types of bullying encounters—specifically, social bullying and cyberbullying. We employed a Hypothesis Test for Proportion to explore if there's a significant difference."
+*Hypotheses:*
+- "Our initial guess (null hypothesis, H0) was that the difference between the percentage of people experiencing social bullying (P1) and cyberbullying (P2) is 0.30. The alternative guess (H1) was that the difference is less than 0.30, making it a 'one-tail test.'"
+*Details:*
+- "For our analysis, we set a confidence level of 95% and surveyed 120 people for social bullying and 105 for cyberbullying."
+*Test Results:*
+- "Using a critical number called 'Z' (1.96), we found that the Confidence Interval is 0.193 ± 0.08. This helped us decide if our initial guess was correct."
+*Conclusion:*
+- "Our conclusion is that we failed to accept the idea that the difference between social and cyberbullying encounters is 0.30. Our analysis suggests that the Confidence Interval for people facing social and cyberbullying is less than 0.30."
+*Final Thoughts:*
+- "In simpler terms, our study indicates that the experiences of people facing social and cyberbullying are significantly different. The difference is less than what we initially thought (0.30), emphasizing the diverse nature of bullying encounters in social and online settings."
+
+_____________________________________________________________
+Slide 13:
+Certainly, let's simplify the explanation for Slide 16:
+
+Assessment of Question 8 - Institutional Effectiveness Against Bullying**
+*Statistical Analysis:*
+- "Our focus here was to assess how effective institutions are in preventing bullying. We used a Hypothesis Test for Mean with two samples to compare the effectiveness perception."
+*Details:*
+- "We set our confidence level at 95% and surveyed 72 people who likely think institutions are effective against bullying and 78 people who very likely think otherwise."
+*Hypotheses:*
+- "Our null hypothesis (H0) was that the average effectiveness perception in both cases is the same. The alternative hypothesis (H1) suggested that the average perception in the 'likely' group is less than the 'very likely' group."
+*Test Results:*
+- "After doing the math, we found a critical number called 't' (-1.97549) and our Test Statistic 't' (35.19770). This helped us decide if there's a significant difference."
+*Conclusion:*
+- "Our conclusion is that we failed to accept the idea that the effectiveness perception in the 'likely' and 'very likely' groups is the same. Our analysis suggests that the average perception of institutional effectiveness against bullying is more than what we initially thought."
+*Final Thoughts:*
+- "In simpler terms, our study indicates that there's a difference in how people see the effectiveness of institutions in preventing bullying. People who very likely think institutions are not effective have a different perception than those who likely think institutions are effective."
+_____________________________________________________
+Slide 14:
+Certainly, let's craft a conclusion slide incorporating the highlighted points:
+
+**Slide 17: Conclusion and Recommendations**
+
+*Highlights:*
+- "In summary, our study has illuminated the profound emotional and mental toll that bullying inflicts on individuals. The data reveals a higher prevalence of anxiety, depression, and low self-esteem among those who have experienced bullying."
+
+- "Furthermore, our findings suggest a prevalent doubt among respondents regarding the effectiveness of authorities in handling bullying issues. This points to a crucial need for reassessment and improvement in institutional responses."
+
+*Action Points:*
+- "**Speak Up and Help:** If you witness someone being bullied, be their voice. Your support can make a significant difference in their experience."
+
+*Recommendations:*
+- "**Raise Awareness:** It is essential to spread awareness about the impact of bullying. Education and dialogue can contribute to a more empathetic and understanding community."
+
+- "**Enforce Policies:** Institutions need to ensure that anti-bullying policies are not just words on paper but actively enforced to create a safer environment."
+
+- "**Support Victims:** Establish support systems for victims, fostering a culture of empathy and solidarity."
+
+- "**Avoid Blaming the Victim:** Combat the tendency to blame victims. Understanding and empathy go a long way in addressing the complexities of bullying."
+
+- "**Tolerate Bullying:** Zero tolerance is key. It's vital to create an environment where bullying is not tolerated, and individuals feel safe reporting incidents without fear of reprisal."
+
+In conclusion, by taking these steps, we can collectively work towards a society where bullying is actively discouraged, victims are supported, and everyone can thrive in a respectful and inclusive environment.
+
+
+
+
+
+
+
+
+
+
+
